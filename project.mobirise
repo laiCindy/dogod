@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "NewSite-04-22_1806",
-    "currentPage": "function.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -80,7 +80,7 @@
             }
           },
           "brand": "<a class=\"text-warning\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DOGOD</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>&nbsp;Service</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-4\">外出遛狗</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">遛狗好去處</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">養狗達人速成班</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">好文推推</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">疾病文章</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">照顧文章</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">緊急協尋</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>Developers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 149, 148);\"></span>白茵</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(251, 141, 140);\"></span>賴怡廷</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(248, 146, 141);\"></span>高如萱</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>陳致安</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">陳育毅 教授</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#msg-box1-h\" target=\"_blank\">馬上體驗</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>&nbsp;Service</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-4\">外出遛狗</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">遛狗好去處</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">養狗達人速成班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">緊急協尋</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>Developers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 149, 148);\"></span>白茵</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(251, 141, 140);\"></span>賴怡廷</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(248, 146, 141);\"></span>高如萱</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>陳致安</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">陳育毅 教授</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#msg-box1-h\" target=\"_blank\">馬上體驗</a></li>"
         },
         {
           "alias": "purity/components",
@@ -134,7 +134,7 @@
           },
           "title": "<b>DOGOD</b><br><br>-An app for all dog lovers-<b>&nbsp;</b>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">For whom do have dogs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For whom don't have dogs</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#slider-4\" data-toolbar=\"-mbrBtnMove\">For whom do have dogs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#header4-b\" data-toolbar=\"-mbrBtnMove\">For whom don't have dogs</a>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -236,7 +236,7 @@
           },
           "title": "養狗達人速成班",
           "text": "養狗達人速成班功能使用Google 360度全景及層層關卡測驗模擬養狗的環境，以了解養狗小訣竅，讓使用者可以透過訓練成為一名合格的狗狗飼養者。藉此減少因知識不足或耐心不夠所造成的惡意棄養發生。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more ...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"function.html\" data-toolbar=\"-mbrBtnMove\">know more ...</a> "
         },
         {
           "alias": "purity/components",
@@ -484,7 +484,7 @@
             }
           },
           "brand": "<a class=\"text-warning\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DOGOD</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>&nbsp;Service</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-4\">外出遛狗</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">遛狗好去處</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">養狗達人速成班</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">好文推推</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">疾病文章</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">照顧文章</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">緊急協尋</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>Developers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 149, 148);\"></span>白茵</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(251, 141, 140);\"></span>賴怡廷</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(248, 146, 141);\"></span>高如萱</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>陳致安</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">陳育毅 教授</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#msg-box1-h\" target=\"_blank\">馬上體驗</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>&nbsp;Service</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-4\">外出遛狗</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">遛狗好去處</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">養狗達人速成班</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">緊急協尋</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>Developers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(249, 149, 148);\"></span>白茵</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(251, 141, 140);\"></span>賴怡廷</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(248, 146, 141);\"></span>高如萱</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>陳致安</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">陳育毅 教授</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#msg-box1-h\" target=\"_blank\">馬上體驗</a></li>"
         },
         {
           "alias": "purity/components",
@@ -522,26 +522,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-n",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "10",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/file-mobirise-background-2000x1389.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -567,8 +567,8 @@
           },
           "title": "外出遛狗",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>在使用者開啟了藍芽及GPS定位之後，外出遛狗的頁面中會顯示使用者的狗狗(iBeacon項圈)與手機的距離，在距離顯示大於20公尺時，系統會發起警訊以提醒使用者注意狗狗的動向。同時在頁面中也會顯示關於使用者在此次外出散步時，所獲得的積分，系統也會不定期的出現小任務在頁面中，若使用者完成該任務，便可以增加積分。在分數到達一定門檻時，可以根據所在地附近的其他使用者送出名片作為好友邀請，達到交流的目的。</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+          "text": "<p>在使用者開啟了藍芽及GPS定位之後，外出遛狗的頁面中會顯示使用者的狗狗(iBeacon項圈)與手機的距離，在距離顯示大於20公尺時，系統會發起警訊以提醒使用者注意狗狗的動向。同時在頁面中也會顯示關於使用者在此次外出散步時，所獲得的積分，系統也會不定期的出現小任務在頁面中，若使用者完成該任務，便可以增加積分。在分數到達一定門檻時，可以根據所在地附近的其他使用者送出名片作為好友邀請，達到交流的目的。</p><p>使用技術：iBeacon、Firebase、政府開放式資料</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">回到主頁面</a>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -582,7 +582,7 @@
               "color": "#0275d8"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#0275d8"
             }
           },
           "_params": {
@@ -592,7 +592,9 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-mobirise-background-2000x1500.jpg",
+                "overlay": true,
+                "overlayOpacity": "0.7",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "",
@@ -602,8 +604,10 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">回到主頁面</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/file-mobirise-background-2000x1500.jpg",
+                "overlay": true,
+                "overlayOpacity": "0.7",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "景點列表",
@@ -613,13 +617,15 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">回到主頁面</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/file-mobirise-background-2000x1500.jpg",
+                "overlay": true,
+                "overlayOpacity": "0.7",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "上傳景點評分標準",
                 "showText": true,
-                "text": "在使用者開啟了GPS定位後，在遛狗好去處的頁面當中使用者可以看到自己周邊環境的系統已記錄的遛狗地點。呈現方式會在地圖上進行標示，若是該地點有進入十大熱門優良景點，則會以較大的游標及明顯顏色進行標記。使用者也可以在這個功能中上傳自己所在的遛狗地點或是針對已經上傳的地點進行評分。<br>",
+                "text": "在使用者開啟了GPS定位後，在遛狗好去處的頁面當中使用者可以看到自己周邊環境的系統已記錄的遛狗地點。呈現方式會在地圖上進行標示，若是該地點有進入十大熱門優良景點，則會以較大的游標及明顯顏色進行標記。使用者也可以在這個功能中上傳自己所在的遛狗地點或是針對已經上傳的地點進行評分。<br><br>使用技術：政府開放式資料、Firebase",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">回到主頁面</a>"
               }
@@ -630,6 +636,68 @@
           },
           "_anchor": "slider-o",
           "articleLayout": false
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/file-mobirise-background-2000x1314.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "緊急協尋",
+          "text": "走失者進入緊急協尋後，可以寫下狗狗的特徵將他上傳至Firebase。當有其他使用者接收到iBeaconv訊號時，將GPS座標標示於失主的頁面中。協尋者不需進入協尋頁面，只要打開手機DOGOD APP及藍芽、GPS，系統便會自動在後端尋找並配對，可以迅速為失去狗狗的主人找回愛犬。<br><br>相關技術：iBeacon、Firebase<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">回到主頁面</a>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-q",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/file-mobirise-background-2000x1333.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "養狗達人速成班",
+          "text": "透過Google 360度全景技術讓使用者可以真實的體驗到養狗的大小事，讓惡意棄養的事情不要再發生。<br><br>相關技術：Google 360度全景",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">回到主頁面</a> "
         }
       ]
     }
