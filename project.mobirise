@@ -192,7 +192,7 @@
                 "showText": true,
                 "text": "狗狗走失了？別怕，DOGOD的緊急協尋功能利用群眾的力量透過藍芽及GPS定位幫你迅速地找回狗狗。有了DOGOD的緊急協尋功能，幫你好好把關狗狗的行蹤，外出遛狗的時候再也不怕遺失囉！",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Know more ...</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"function.html\" data-toolbar=\"-mbrBtnMove\">Know more ...</a>"
               }
             ],
             "fullScreen": true,
